@@ -1,4 +1,4 @@
-# 🖥️ Essential Windows Shortcuts
+# 🖥️ General Windows Shortcuts
 
 Master the most commonly used Windows keyboard shortcuts to navigate your PC faster, improve productivity, and reduce reliance on the mouse. Whether you're a beginner or an experienced user, these essential shortcuts will help you work more efficiently every day.
 
